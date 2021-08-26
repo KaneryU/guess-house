@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1626365219 source:c:\users\dws6527-40\desktop\guess\main.cpp
-	<iostream>
-	<ios>
-	<limits>
-	<stdio.h>
-	<stdlib.h>
-	<time.h>
-
